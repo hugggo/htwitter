@@ -35,6 +35,9 @@ gem 'simple_form'
 # gem to manage users
 gem 'devise'
 
+# gem to upload files (pictures)
+gem 'carrierwave'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
